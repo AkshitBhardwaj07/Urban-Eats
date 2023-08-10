@@ -4,7 +4,5 @@ This website Hosts some benficial features on Cafe Restaurant Websites for havin
 
 Website Design
 
-
-
-https://github.com/AkshitBhardwaj07/Urban-Eats/assets/129175882/2c96f3d9-50d6-4aaf-b8b6-6400469cc97f
+https://github.com/AkshitBhardwaj07/Urban-Eats/assets/129175882/03fadf49-9325-4ba4-b88f-4092a70b842f
 
